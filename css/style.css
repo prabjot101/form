@@ -1,0 +1,64 @@
+#pp> div{
+    display: flex;
+    flex-flow: row wrap;
+}
+
+#pp{
+    margin-bottom: 50px;
+}
+#pp > div > *{
+    flex: 1 1 200px;
+    padding: 5px;
+}
+
+h4{
+    color: red;
+}
+
+legend{
+    
+  border: 1px solid rgb(165, 161, 161);
+  background-color: rgb(165, 161, 161);
+  padding: 5px;
+  margin: 2px;
+}
+#q6{
+    height: 150px;
+    width: 150px;
+
+}
+
+#q5{
+    height: 150px;
+    width: 150px ;
+
+}
+
+#one{
+    display: block;
+    float:left;
+    width: 300px;
+}
+
+#two{
+    display: block;
+    float:left;
+    width: 300px;
+}
+  div{
+      padding: 5px;
+      margin-bottom: 5px;
+      margin-top: 5px;
+  }
+
+
+  footer{
+        padding: 5px;
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+  .last{
+    display: block;
+    float:left;
+    width: 445px;
+  }
